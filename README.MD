@@ -53,3 +53,8 @@ Before using this script, ensure you have the following:
 - Be cautious when handling email credentials and API keys, and consider more secure methods for storing sensitive information in a production environment.
 
 That's it! Use this script to receive email updates on the latest news in your chosen topic of interest.
+
+## License
+
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
+
